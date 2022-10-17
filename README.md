@@ -2,8 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Comenius University.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
